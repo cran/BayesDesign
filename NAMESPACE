@@ -1,0 +1,5 @@
+importFrom("stats", "dgamma", "dlnorm", "dweibull", "integrate",
+           "pgamma", "punif", "qnorm", "rexp", "runif", "uniroot")
+export(optimal_OneStage)
+export(optimal_TwoStage)
+export(tot_time)
